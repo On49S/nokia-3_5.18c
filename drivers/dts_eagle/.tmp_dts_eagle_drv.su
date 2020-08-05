@@ -1,0 +1,7 @@
+dts_eagle_drv.c:152:12:dts_eagle_open	0	static
+dts_eagle_drv.c:158:12:dts_eagle_close	0	static
+dts_eagle_drv.c:640:20:dts_eagle_drv_exit	32	static
+dts_eagle_drv.c:119:12:_get_cb_for_dev	16	static
+dts_eagle_drv.c:164:13:dts_eagle_ioctl	224	static
+dts_eagle_drv.c:589:19:dts_eagle_drv_init	48	static
+dts_eagle_drv.c:513:13:dts_eagle_compat_ioctl	16	static
